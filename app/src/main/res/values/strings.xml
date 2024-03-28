@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lessons</string>
+    <string name="log_in">Log in</string>
+    <string name="hi_welcome">Hi! Welcome</string>
+    <string name="email_address">Email Address</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forgotten_your_password">Forgotten your password ?</string>
+    <string name="or_sign_in_with">Or sign in with</string>
+    <string name="don_t_have_an_account">Don’t have an account ?</string>
+    <string name="create_an_account">Create an Account</string>
+    <string-array name="initial">
+        <item>20</item>
+        <item>70</item>
+    </string-array>
+</resources>
